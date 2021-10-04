@@ -1,0 +1,37 @@
+﻿Order category; Location; Car brand; Registration numbers; Order Time; Order Type; Payment Type
+Sell; Bellevue; Jeep; Valid; Trading Hours; Web App; VISA
+Sell; Issaquah; Tesla; Invalid; Non Trading Hours; In Store; Paypal
+Buy; Sammamish; Jeep; Invalid; Trading Hours; In Store; MasterCard
+Buy; Redmond; Tesla; Valid; Non Trading Hours; Web App; Bank transfer
+Buy; Redmond; Jeep; Valid; Trading Hours; In Store; Paypal
+Buy; Bellevue; Toyota; Invalid; Trading Hours; In Store; Bank transfer
+Sell; Everett; Honda; Valid; Non Trading Hours; Web App; MasterCard
+Buy; Issaquah; Subaru; Invalid; Trading Hours; Web App; VISA
+Buy; Everett; Hyundai; Invalid; Non Trading Hours; In Store; VISA
+Buy; kirkland; Honda; Invalid; Trading Hours; In Store; Paypal
+Sell; kirkland; Jeep; Valid; Non Trading Hours; Web App; Bank transfer
+Sell; Sammamish; Toyota; Valid; Non Trading Hours; Web App; Paypal
+Sell; Issaquah; Hyundai; Valid; Trading Hours; Web App; Bank transfer
+Sell; Redmond; Honda; Invalid; Non Trading Hours; In Store; VISA
+Sell; Redmond; Subaru; Valid; Non Trading Hours; In Store; MasterCard
+Sell; Issaquah; Toyota; Invalid; Trading Hours; Web App; MasterCard
+Buy; Everett; Toyota; Invalid; Trading Hours; Web App; Paypal
+Buy; Issaquah; Jeep; Valid; Trading Hours; In Store; Bank transfer
+Sell; Bellevue; Tesla; Valid; Non Trading Hours; In Store; MasterCard
+Buy; kirkland; Tesla; Invalid; Trading Hours; In Store; VISA
+Sell; Everett; Tesla; Valid; Trading Hours; Web App; Bank transfer
+Buy; Bellevue; Hyundai; Valid; Non Trading Hours; Web App; Paypal
+Sell; kirkland; Toyota; Valid; Trading Hours; Web App; VISA
+Sell; Sammamish; Tesla; Valid; Non Trading Hours; In Store; VISA
+Sell; kirkland; Hyundai; Invalid; Non Trading Hours; In Store; MasterCard
+Sell; Redmond; Toyota; Valid; Trading Hours; In Store; MasterCard
+Sell; Sammamish; Subaru; Valid; Trading Hours; Web App; Bank transfer
+Buy; Bellevue; Subaru; Valid; Trading Hours; Web App; Paypal
+Buy; Redmond; Hyundai; Invalid; Non Trading Hours; In Store; MasterCard
+Buy; kirkland; Subaru; Valid; Trading Hours; Web App; MasterCard
+Buy; Bellevue; Honda; Invalid; Trading Hours; Web App; Bank transfer
+Sell; Everett; Jeep; Invalid; Non Trading Hours; In Store; Bank transfer
+Buy; Everett; Subaru; Valid; Non Trading Hours; In Store; Bank transfer
+Buy; Issaquah; Honda; Invalid; Non Trading Hours; Web App; Paypal
+Buy; Sammamish; Hyundai; Invalid; Trading Hours; In Store; MasterCard
+Sell; Sammamish; Honda; Valid; Non Trading Hours; In Store; Paypal
